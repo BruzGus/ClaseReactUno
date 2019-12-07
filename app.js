@@ -34,3 +34,7 @@ array.map( numero => console.log(numero))
 }
 
 console.log(persona)
+
+const printName = (name, lastame)=> "El nombre completo es :"+name+" "+lastname;
+
+console.log (printName)
