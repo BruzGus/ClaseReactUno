@@ -6,3 +6,8 @@ if (numero < 5) {
 } else {
     console.error('Error!');
 }
+
+
+var array =[1,2,3,4];
+
+array.map( numero => console.log(numero))
